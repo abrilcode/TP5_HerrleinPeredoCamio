@@ -6,6 +6,7 @@
 <div align="center">
   <img src="logo-itba-site.png" alt="Logo del ITBA">
 </div>
+
 ## Información del Proyecto
 
 ### Alumnos
