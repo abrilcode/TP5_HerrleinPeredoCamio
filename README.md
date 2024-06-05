@@ -37,8 +37,3 @@ Las entidades principales de la base de datos son:
 - **Consultas**: Registra todas las consultas médicas realizadas, incluyendo fecha, médico y paciente involucrados, y diagnóstico.
 - **Recetas**: Vincula pacientes con medicamentos prescritos por los médicos, incluyendo información sobre el medicamento, cantidad y frecuencia.
 
-## Estructura del Repositorio
-
-- `README.md`: Este archivo.
-- `docs/`: Documentación del proyecto.
-- `images/`: Imágenes utilizadas en el README, como el logo del ITBA y el diagrama ER.
